@@ -12,6 +12,7 @@ GAMEPLAY ADDITIONS/CHANGES:
 -The project instructions don't really detail much about how cards are discarded so we're taking some creative liberties and having cards discard after that turn's reveal phase is over. This will allow more cards to be cycled through play and we feel it gives some originality to our game.
 -added deck builder to build a custom deck for play
 -added game log to show the turn status
+
 CREDITS & ASSETS
 
 Code: Tommy Nguyen & Sean Massa Art: drawn by Tommy Nguyen
